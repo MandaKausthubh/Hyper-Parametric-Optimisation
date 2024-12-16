@@ -1,1 +1,3 @@
 *.qmd
+src/*_files/**/*
+benchmarking/*_files/**/*
